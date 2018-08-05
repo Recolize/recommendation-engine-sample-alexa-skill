@@ -1,0 +1,23 @@
+{
+    "interactionModel":{
+        "languageModel":{
+            "invocationName":"recolize",
+            "types":[],
+            "intents":[
+                {
+                    "name":"WhatCanYouRecommendIntent",
+                    "samples": [
+                        "was kannst du heute empfehlen",
+                        "was ist die Empfehlung des Tages",
+                        "was kann er empfehlen",
+                        "was kann er heute empfehlen",
+                        "was er empfehlen kann",
+                        "was kann sie empfehlen",
+                        "was kann sie heute empfehlen",
+                        "was sie empfehlen kann"
+                    ]
+                }
+            ]
+        }
+    }
+}

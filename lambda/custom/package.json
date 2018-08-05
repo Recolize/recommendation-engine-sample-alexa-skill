@@ -1,0 +1,14 @@
+{
+  "name": "recolize-recommendation-engine-sample-alexa-skill",
+  "version": "1.0.0",
+  "description": "Recolize Sample Skill",
+  "license": "GPL",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.87.0"
+  }
+}
